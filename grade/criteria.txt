@@ -1,0 +1,39 @@
+1. Content and Coherence
+100% = 20 Points
+C1 (100%): The text demonstrates a thorough understanding of the topic, with complex ideas clearly and effectively communicated. Arguments are well-developed, logically structured, and supported by relevant examples or evidence.
+B2 (80%): The text presents a clear understanding of the topic, with ideas generally well communicated. There is a logical structure, and arguments are supported by examples or evidence, though there may be minor lapses in clarity or development.
+B1 (60%): The text shows a basic understanding of the topic, with simple ideas expressed. The structure may be simple or formulaic, and arguments are somewhat supported by examples or evidence, though they may be underdeveloped or unclear.
+A2 (40%): The text reflects a basic ability to communicate simple ideas related to familiar topics. There's an attempt to organize ideas, but coherence may suffer due to limited vocabulary and structural repetition.
+A1 (20%): The text shows a very basic attempt to communicate ideas. Content is limited to very familiar topics, using isolated phrases or sentences with no clear organization.
+
+2. Language Use and Accuracy
+100% = 20 Points
+C1 (100%): The text displays a high level of language proficiency, with a wide range of vocabulary and grammatical structures used effectively and accurately. Minor errors do not impede communication.
+B2 (80%): The text demonstrates a good level of language proficiency, with a good range of vocabulary and some complex grammatical structures. Errors may occur but generally do not impede understanding.
+B1 (60%): The text reflects an intermediate level of language proficiency, with a limited range of vocabulary and simple grammatical structures. Errors are frequent but do not completely hinder communication.
+A2 (40%): The text uses a limited range of vocabulary and simple grammatical structures. Frequent errors are present but do not completely prevent understanding of basic ideas.
+A1 (20%): The text demonstrates minimal control over vocabulary and grammar, with errors significantly hindering communication. Relies on learned phrases and expressions.
+
+3. Cohesion and Coherence
+100% = 20 Points
+C1 (100%): The text is highly cohesive and coherent, with sophisticated use of linking words, pronouns, and conjunctions to connect ideas seamlessly.
+B2 (80%): The text is cohesive and coherent, with adequate use of linking devices to connect ideas, though there may be occasional lapses.
+B1 (60%): The text demonstrates basic cohesion and coherence, with simple linking words used to connect ideas, though connections may sometimes be unclear or mechanical.
+A2 (40%): The text makes basic attempts at using linking words and phrases, but these are often misused or overly repetitive, affecting the flow of ideas.
+A1 (20%): The text shows little to no use of cohesive devices, resulting in a series of disconnected sentences or phrases with no clear link between ideas.
+
+4. Task Achievement
+100% = 40 Points
+C1 (100%): The text fully meets the requirements of the task, effectively addressing all aspects of the prompt with depth and insight.
+B2 (80%): The text meets the main requirements of the task, addressing most aspects of the prompt with a degree of detail and awareness.
+B1 (60%): The text meets the basic requirements of the task, addressing some aspects of the prompt, though it may be superficial or partially incomplete.
+A2 (40%): The text partially addresses the prompt with limited detail and insight. Shows an understanding of the task but fails to cover all required aspects adequately.
+A1 (20%): The text makes a minimal attempt to address the prompt, lacking detail and insight. Understanding of the task is very limited, with many aspects left unaddressed.
+
+5. Engagement and Style
+100% = 10 Points
+C1 (100%): The text demonstrates an exceptional ability to engage the reader, with a style that is appropriate, varied, and nuanced, effectively tailored to the audience and purpose.
+B2 (80%): The text maintains the reader's interest with a style that is generally appropriate and somewhat varied, showing awareness of audience and purpose.
+B1 (60%): The text is somewhat engaging, with a simple style that is mostly appropriate for the audience and purpose, though it may lack variety and nuance.
+A2 (40%): The text attempts to engage the reader with basic language and style. Efforts to tailor the content to the audience and purpose are evident but not fully successful.
+A1 (20%): The text shows little to no engagement, with a very basic or repetitive style that does not consider the audience or purpose.
