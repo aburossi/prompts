@@ -26,7 +26,7 @@ A2 (20%): The text makes basic attempts at using linking words and phrases, but 
 A1 (0%): The text shows little to no use of cohesive devices, resulting in a series of disconnected sentences or phrases with no clear link between ideas.
 
 4. Task Achievement
-100% = 40 Points
+100% = 30 Points
 C2 (100%): The text exceeds the requirements of the task, offering comprehensive coverage of the topic with exceptional depth, insight, and originality. The response fully engages with the prompt, demonstrating an ability to think critically and creatively.
 C1 (80%): The text fully meets the requirements of the task, effectively addressing all aspects of the prompt with depth and insight.
 B2 (60%): The text meets the main requirements of the task, addressing most aspects of the prompt with a degree of detail and awareness.
