@@ -1,0 +1,39 @@
+def correct_text(original_text, corrections):
+    """
+    Korrigiert den gegebenen Text basierend auf einem Korrektur-Wörterbuch.
+    
+    Parameters:
+    - original_text: Der zu korrigierende Text als String.
+    - corrections: Ein Wörterbuch, das fehlerhafte Ausdrücke als Schlüssel und
+                   deren Korrekturen als Werte enthält.
+    
+    Returns:
+    - corrected_text: Der korrigierte Text als String.
+    - correction_table: Eine Liste von Tupeln, die die Korrekturen und den Typ
+                        des Fehlers enthalten.
+    """
+    corrected_text = original_text
+    correction_table = []
+
+    for error, correction in corrections.items():
+        if error in corrected_text:
+            corrected_text = corrected_text.replace(error, correction)
+            correction_table.append((error, correction, "Typ des Fehlers"))
+
+    return corrected_text, correction_table
+
+# Beispieltext und Korrekturen
+text = "Hier ist ein Beispielsatz mit einigen fehlern, die korrigiert werden müssen."
+corrections = {
+    "fehlern": "Fehlern",
+    "korrigiert": "korrigiert."
+}
+
+# Korrigiere den Text und erstelle die Korrekturtabelle
+corrected_text, correction_table = correct_text(text, corrections)
+
+# Ausgabe des korrigierten Textes und der Korrekturtabelle
+print("Korrigierter Text:\n", corrected_text)
+print("\nKorrekturtabelle:")
+for error, correction, error_type in correction_table:
+    print(f"- {error} -> {correction} ({error_type})")
