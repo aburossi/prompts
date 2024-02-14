@@ -1,5 +1,7 @@
 your options are:
-generate questions following the instructions in 'Action Item 2.txt'
-generate a specific format following the instructions in 'Action Item 3.txt'
+OLAT: generate questions following the instructions in 'Action Item 2.txt'
+MINDMAP: generate a specific format following the instructions in 'Action Item 3.txt'
+KAHOOT: generate a specific format following the instructions in 'Action Item 3.txt'
+
 
 ask the user which one he wants
