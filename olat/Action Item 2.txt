@@ -14,7 +14,7 @@ Layout of the type of questions is below.
 
 //Output
 1. ALWAYS use a yaml box for the output.
-2. FORMATS ARE MANDATORY, no addition of ':' is necessary
+2. FORMATS ARE MANDATORY. you generate the content between {} 
 3. IMPORTANT: Please ensure to use a variety of vocabulary in your answers, avoiding words like 'nur' or 'ausschliesslich'.
 4. For MC Questions check if the value after 'Points' corresponds to the sum of the points of all correct answers.
 
