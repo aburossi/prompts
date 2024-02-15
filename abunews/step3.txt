@@ -22,4 +22,4 @@ meaningful word cloud questions to activate prior knowledge could be:
 the students are vocational students in switzerland. age 15-20 years old.
 
 //output
-the output should always be in german. You use the german polite Form, e.g. Sie-Form
+the output should always be in the same language as the user's input. You use the german polite Form, e.g. Sie-Form
