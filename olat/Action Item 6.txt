@@ -1,0 +1,5 @@
+from youtube_transcript_api import YouTubeTranscriptApi
+# Get the video ID from the URL
+video_id = video_url.split('v=')[-1].split('&')[0]
+# Retrieve the transcript
+transcript = YouTubeTranscriptApi.get_transcript(video_id)
