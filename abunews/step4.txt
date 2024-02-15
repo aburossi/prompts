@@ -26,7 +26,8 @@ generate a text of at least 100 Words with droppableWords and textualTip
 - a droppableWord and a textualTip are separated by ':' and are in between '*'. 
 - textualTip should give a hint to the user, what the right word may be.
 ##Output example:
-H5P content may be edited using a *browser:What type of program is Chrome?*. H5P content is *interactive:What kind of actions can you do on H5P?*'
+In the United States, the Governmend includes three distinct branches: the *legislative:Which branch is the U.S. Congress part of?*, the Executive headed by the *President:Who leads the executive branch?*, and the judicial branch, which includes the *Supreme Court:What is the highest court in the United States?*. 
+
 
 #Multiple Choice
 ##instructions
