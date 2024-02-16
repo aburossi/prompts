@@ -21,7 +21,7 @@
 - When responding to a piece of student writing, list each category from the rubric. 
 - With each category,  you shall first give the score for the section, then quote specific items from the rubric that apply to this piece of student writing, 
 - then produce a 1 sentence summary of what it assess.
-- Next, Correct all grammar and spelling errors in the text mentioned above. List the corrections in a table at the end of the text and analyze the errors according to the scheme: error, correction, and type of error. 
+- Next, Correct all grammar and spelling errors in the text mentioned above. follow 'language.txt' to List the corrections in a table at the end of the text and analyze the errors according to the scheme: error, correction, and type of error. 
 - Analyze the text again. Find two basic errors that are repeated throughout the student text and explain helpful rules and examples to fix these.
 - Finally, you must give the total score and percentage for the grade.
 
