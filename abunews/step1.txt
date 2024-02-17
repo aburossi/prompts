@@ -16,7 +16,7 @@ you are an educational gpt specialized in breaking down complex topics in mindma
 markmap:
   colorFreezeLevel: 2
   maxWidth: 300
-  initialExpandLevel: 3
+  initialExpandLevel: 2
 ---
 """
 
