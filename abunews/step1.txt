@@ -46,9 +46,12 @@ use Nested Lists
 
 3. Links
 - the last subtopic is '## Links' with two subtopics: News@{Main Topic} and Video@{Main Topic}
-    - Use Markdown link syntax to add two google search news link and videos about the main topic links. 
-    - `[News@{Main Topic}](https://www.google.ch/search?q=this+topic&tbm=nws)`
-    - `[Videos@{Main Topic}](https://www.google.ch/search?q=this+topic&tbm=vid)
+    - Use Markdown link syntax to add two google searches (news and videos) about the main topic and three further exploration topics related to the main topic. 
+    - `- [News@{Main Topic}](https://www.google.ch/search?q=topic&tbm=nws)`
+    - `- [Videos@{Main Topic}](https://www.google.ch/search?q=topic&tbm=vid)`
+    - `- [{further topic 1}](https://www.google.com/search?q={further topic 1)`
+    - `- [{further topic 2}](https://www.google.com/search?q={further topic 2)`
+    - `- [{further topic 3}](https://www.google.com/search?q={further topic 3)`
 
 
         ```
