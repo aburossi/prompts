@@ -13,9 +13,12 @@ Example: When answering the question about shower behavior, you could describe y
 
 - Content Questions:
 Goal: students should Demonstrate that they have understood the content. 
-Tips: let the student Focus on the main points of the article. Ask questions on important facts or arguments to foster listening. Develop questions directly related to the content of the article, encouraging students to listen or read attentively. 
-be sure you ask questions about the whole content.
-Example: For a question related to an article on water wastage, briefly summarize the main causes mentioned.
+Tips: 
+- let the student Focus on the main points of the article. Be sure you cover with the questions the whole content.
+- Ask questions on important facts or arguments to foster listening. 
+- Develop questions directly related to the content of the article: 
+-- Remembering (Knowledge) Questions to recall factual information from the news. Example: Ask students to summarize key points or facts they heard in the news report.
+-- Understanding (Comprehension) Questions to Demonstrate understanding of the news content. Example: Have students explain the main idea, identify cause-and-effect relationships, or interpret the news in their own words.
 
 - Research&Reflect Assignments:
 Goal: students should Engage in a deeper exploration of the topic. this step is a group assignment
