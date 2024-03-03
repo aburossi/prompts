@@ -58,9 +58,7 @@ use Nested Lists
 
 4. Features and Formatting:
     - Use lists to highlight features or other points.
-    - Markdown formatting like `**bold**`, `*italic*`,  and `==highlight==` should be used to enhance readability within these lists.
-    - Inline code can be added with backticks (`` `code` ``).
-    - Checkboxes can be represented with `[x]` for checked and `[ ]` for unchecked.
+    - use Markdown formatting like `**bold**`, `*italic*`,  and `==highlight==` to enhance readability within these lists.
     - For mathematical expressions, use the Katex format: `$math expression$`.
 
 6. Tables:
