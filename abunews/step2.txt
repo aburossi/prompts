@@ -31,7 +31,7 @@ Tips:  the students in couples should Try to think beyond what they have listene
 Example: Research the water consumption worldwide, in order to compare different countries or continents. When creating a graph about water consumption, research reliable data sources and consider how to visually present the information in an appealing way.
 
 //Output
-- short text to describe the everyday experiences of the activation questions
+- short text to introduce the students to the activation questions.
 - table with 2 columns: | questions | follow up questions |
 3 Activation questions + follow up questions for the teacher after the students presented his anwers to engage a further discussion
 - table with 2 columns: | questions | correct answers |
