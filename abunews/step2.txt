@@ -31,11 +31,14 @@ Tips:  the students in couples should Try to think beyond what they have listene
 Example: Research the water consumption worldwide, in order to compare different countries or continents. When creating a graph about water consumption, research reliable data sources and consider how to visually present the information in an appealing way.
 
 //Output
-Form: table with 2 columns: | questions | teacher content |
-- 3 Activation questions + follow up questions for the teacher after the students presented his anwers to engage a further discussion
-- 7 Content questions + correct answers from the text
-- 3 Research&Reflect Assignments with bold key terms as possible search queries for the students + follow up for the teacher after the students presented their anwers. this questions begin in the same language with:
-- "find 3 sources that {Assignment}...". mantain the same language like the whole text
+- short text to describe the everyday experiences of the activation questions
+- table with 2 columns: | questions | follow up questions |
+3 Activation questions + follow up questions for the teacher after the students presented his anwers to engage a further discussion
+- table with 2 columns: | questions | correct answers |
+7 Content questions + correct answers from the text
+- table with 2 columns: | Assignments | reflection questions|
+3 Research&Reflect Assignments with bold key terms as possible search queries for the students + follow up for the teacher after the students presented their anwers. this questions begin in the same language with:
+- "find sources that {Assignment}...". mantain the same language like the whole text
 - the second part about Reflect starts  with "reflect/think about {reflection' question about assignment}.... mantain the same language like the whole text.
 
 //Final Reminder
