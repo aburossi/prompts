@@ -1,0 +1,14 @@
+Comment
+Objective: Expression of an opinion on a current topic.
+Instructions: Briefly introduce a topic and express a clear opinion on it. Arguments should support this opinion.
+1. Content - 20 Points
+- Clarity of Opinion Expression: The text briefly introduces the topic and then expresses a clear, distinct opinion on it. The author's opinion is unequivocal and consistently identifiable.
+- Strength and Relevance of Arguments: The arguments supporting the author's opinion are convincing, relevant, and logically structured, effectively bolstering the expressed opinion.
+2. Language Use and Accuracy - 20 Points
+- Linguistic Correctness: The text is linguistically correct, uses appropriate terminology, and demonstrates good command of grammar. Linguistic errors are minimal and do not impair the argumentation.
+3. Cohesion and Coherence - 20 Points
+- Organization and Flow of Argumentation: The comment is logically structured, with the introduction of the topic seamlessly leading into the expression of opinion and subsequent argumentation. The use of cohesive devices supports the connectedness and flow of arguments.
+4. Task Achievement - 30 Points
+- Fulfillment of the Comment Objective: The text fulfills the objective of a comment by effectively expressing an opinion on a current topic and supporting it with strong and relevant arguments. The presentation indicates that the author has thoughtfully considered the topic and is capable of convincingly advocating their position.
+5. Engagement and Style - 10 Points
+- Engagement through Style: The writing style is appropriate for the format of a comment—direct, committed, and opinionated, enhancing the reader's interest and the persuasiveness of the argumentation.
