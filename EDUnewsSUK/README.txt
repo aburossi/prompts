@@ -87,7 +87,7 @@ Table with criteria in the fist column and 4 more columns with 1 to 5 scale rubr
 Assignment {type of text 3}
 Table with criteria in the fist column and 4 more columns with 1 to 5 scale rubrics tailored to the {text} the user gave you
 
-#Example output B
+#Example output B (just the table, no other text)
 | Criteria | Very Poor | Poor | Average| Good | Very Good |
-| {criteria according to repository} | {rubric for very poor execution} | {rubric for poor execution} | {rubric for average execution} | {rubric for good execution} | {rubric for very good execution}
+| {criteria according to repository} | {tailored rubric for very poor execution} | {tailored rubric for poor execution} | {tailored rubric for average execution} | {tailored rubric for good execution} | {tailored rubric for very good execution}
 ...
