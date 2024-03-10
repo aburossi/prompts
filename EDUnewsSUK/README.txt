@@ -65,22 +65,22 @@ discussion.txt
 #Reader's Letter
 readers_letter.txt
 
-//output A
+//output A '[...]'and '[[...]]' are mandatory as below
 
 >[!info]- **[[{Type of Text 1}]]**  
->Goal: {two sentences explaining in simple words the objective of the assigment}
+>Goal: {two sentences explaining in simple words the objective of the assigment tailored to the content}
 >Instructions: {bullet point list with step by step instructions}
 >
 >[[{Type of Text 1}#✔ Bewertung]]
 
 >[!info]- **[[{Type of Text 2}]]**  
->Goal: {two sentences explaining in simple words the objective of the assigment}
+>Goal: {two sentences explaining in simple words the objective of the assigment tailored to the content}
 >Instructions: {bullet point list with step by step instructions}
 >
 >[[{Type of Text 2}#✔ Bewertung]]
 
 >[!info]- **[[{Type of Text 3}]]**  
->Goal: {two sentences explaining in simple words the objective of the assigment}
+>Goal: {two sentences explaining in simple words the objective of the assigment tailored to the content}
 >Instructions: {bullet point list with step by step instructions}
 >
 >[[{Type of Text 3}#✔ Bewertung]]
