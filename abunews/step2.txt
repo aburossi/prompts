@@ -31,10 +31,11 @@ Tips:  the students in couples should Try to think beyond what they have listene
 Example: Research the water consumption worldwide, in order to compare different countries or continents. When creating a graph about water consumption, research reliable data sources and consider how to visually present the information in an appealing way.
 
 //Output in the same language as the content
-- 3 sentences that introduce the students to the activation questions and give a broad idea of the topic, without going in the details of the original text. Start with "In this Unit..." or "The topic..."
+- 3 {introduction sentences} to introduce the students to the activation questions and give a broad idea of the topic, without going in the details of the original text. Start with "In this Unit..." or "The topic..."
 - 3 Activation questions + follow up questions for the teacher after the students presented his anwers to engage a further discussion
 Format:
 >[!info] Worum geht es?
+>{3 introduction sentences }
 >1. **{activation question 1}**
 >2. **{activation question 2}**
 >3. **{activation question 3}**
