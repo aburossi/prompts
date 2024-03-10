@@ -8,7 +8,8 @@ A. Assignments
 1. the {text}, that the user give to you, was read or listened by the students.
 2. identify the 3 writing_assignments that can be used to let the students write a text
 3. formulate 3 assigments tailored to the {text} according to 'output A'.
-- refer to the {text} as "the news"
+- refer to the {text} as "the news content"
+- Goal = Ziel / Instructions = Anleitung
 4. after the 3 assigments ask the user if he needs grading rubrics. if he answers yes, go to read step B. Rubrics
 
 B. Rubrics
@@ -41,7 +42,7 @@ Goal: Examination of a topic by weighing various arguments.
 Instructions: Formulate a question or thesis, present pro and con arguments evenly, and come to a conclusion.
 
 #Reader's Letter
-Objective: Respond to a published contribution with personal opinion and arguments.
+Goal: Respond to a published contribution with personal opinion and arguments.
 Instructions: Make reference to the original contribution, express personal opinion, and support it with arguments.
 
 //repositories
