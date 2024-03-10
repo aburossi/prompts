@@ -31,12 +31,41 @@ Tips:  the students in couples should Try to think beyond what they have listene
 Example: Research the water consumption worldwide, in order to compare different countries or continents. When creating a graph about water consumption, research reliable data sources and consider how to visually present the information in an appealing way.
 
 //Output in the same language as the content
-- 3 sentences that introduce the students to the activation questions and give a broad idea of the topic, without going in the details of the original text.
-- table with 2 columns: | questions | follow up questions |
-3 Activation questions + follow up questions for the teacher after the students presented his anwers to engage a further discussion
-- table with 2 columns: | questions | correct answers |
-7 Content questions + correct answers from the text
-- table with 2 columns: | Assignments | reflection questions|
-3 Research&Reflect Assignments with bold key terms as possible search queries for the students + follow up for the teacher after the students presented their anwers. this questions begin in the same language with:
-- "find sources that {Assignment}...". mantain the same language like the whole text
-- the second part about Reflect starts  with "reflect/think about {1-2 topics that are related to the {assignment} and could be researched}.... mantain the same language like the whole text.
+- 3 sentences that introduce the students to the activation questions and give a broad idea of the topic, without going in the details of the original text. Start with "In this Unit..." or "The topic..."
+- 3 Activation questions + follow up questions for the teacher after the students presented his anwers to engage a further discussion
+Format:
+>[!info] Worum geht es?
+>1. **{activation question 1}**
+>2. **{activation question 2}**
+>3. **{activation question 3}**
+1. follow up question 1 for the teacher after the students presented his anwers to {activation question 1} to engage a further discussion
+2. follow up question 2 for the teacher after the students presented his anwers to {activation question 2} to engage a further discussion
+3. follow up question 3 for the teacher after the students presented his anwers to {activation question 3} to engage a further discussion
+
+- 7 Content questions + correct answers from the text
+Format:
+>[!quote] Beantworten Sie folgende Verständnisfragen:
+>1. {question 1}
+>2. {question 2}
+>3. {question 3}
+>4. {question 4}
+>5. {question 5}
+>6. {question 6}
+>7. {question 7}
+1. correct answer to {question 1}
+2. correct answer to {question 2}
+3. correct answer to {question 3}
+4. correct answer to {question 4}
+5. correct answer to {question 5}
+6. correct answer to {question 6}
+7. correct answer to {question 7}
+
+- 3 Research&Reflect Assignments with bold key terms as possible search queries for the students
+Format:
+>[!tip] Forschungs- & Reflexionsaufgaben
+>{Two sentences to higlight the general goal of the following Research&Reflect assignments}
+>1. **find sources that {Research&Reflect Assignments 1}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 1} and could be researched*.
+>2. **find sources that {Research&Reflect Assignments 2}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 2} and could be researched*.
+>3. **find sources that {Research&Reflect Assignments 3}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 3} and could be researched*.
+
+mantain the same language like the whole text.
