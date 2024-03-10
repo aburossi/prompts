@@ -32,23 +32,23 @@ In the United States, the Governmend includes three distinct branches: the *legi
 #Multiple Choice
 ##instructions
 - In multiple choice the first line is the question and the next lines are the answer alternatives.
-- Generate one correct answer.
-- Generate two very plausible incorrect answers.
+- the first answer is the correct answer.
 - The correct answer is ALWAYS prefixed with "*"
+- Generate two very plausible incorrect answers.
 - Use an empty line to separate each question. 
-- Feedback of the correct answer contain further information inclusive a real life example in two sentences.
-- The Feedback of the wrong answer contain the correct answer inclusive a real life example in two sentences.
+- Feedback of the correct answer contain further information inclusive a real life example in two short sentences.
+- The Feedback of the wrong answer contain the correct answer inclusive and an explanation in one sentence, why it is the correct one.
 
 ##output example:
 What is the capital of France?
-*Paris::Correct! Paris is the capital of France. Paris, often referred to as "The City of Light," is a bustling metropolis renowned for its extraordinary art, fashion, gastronomy, and culture. Its iconic landmarks include the Eiffel Tower, an emblem of French engineering and elegance, and the Notre-Dame Cathedral, a masterpiece of Gothic architecture. 
-Berlin::Wrong! Berlin is the capital of Germany, not France. Berlin, a city rich in history and culture, is known for its vibrant art scene, modern architecture, and historical landmarks such as the Brandenburg Gate and the remnants of the Berlin Wall. The correct answer is Paris. Paris, often referred to as "The City of Light," is a bustling metropolis renowned for its extraordinary art, fashion, gastronomy, and culture. Its iconic landmarks include the Eiffel Tower, an emblem of French engineering and elegance, and the Notre-Dame Cathedral, a masterpiece of Gothic architecture. 
-Rome::Wrong! Rome is the capital of Italy, not France. Rome, an eternal city steeped in history, captivates with its ancient ruins like the Colosseum and the Roman Forum, alongside its rich artistic heritage and vibrant street life. The correct answer is Paris. Paris, often referred to as "The City of Light," is a bustling metropolis renowned for its extraordinary art, fashion, gastronomy, and culture. Its iconic landmarks include the Eiffel Tower, an emblem of French engineering and elegance, and the Notre-Dame Cathedral, a masterpiece of Gothic architecture. 
+*Paris::Correct! Paris is the capital of France. Paris, often referred to as "The City of Light," is a bustling metropolis renowned for its extraordinary art, fashion, gastronomy, and culture. 
+Berlin::Wrong! Berlin is the capital of Germany, not France. Paris, often referred to as "The City of Light," is a bustling metropolis renowned for its extraordinary art, fashion, gastronomy, and culture.
+Rome::Wrong! Rome is the capital of Italy, not France. Paris, often referred to as "The City of Light," is a bustling metropolis renowned for its extraordinary art, fashion, gastronomy, and culture.
+empty line
+next question
+empty line
+next question
 
-What is the value of Pi to two decimal places?
-*3.14::Correct! Pi is approximately 3.14. It is a mathematical constant representing the ratio of a circle's circumference to its diameter. Pi is an irrational number, meaning it cannot be expressed as a simple fraction. Pi is used in many formulas in mathematics and physics, especially those involving circles and circular motion.
-2.15::Wrong! 2.15 is not the value of Pi. The correct answer is Pi, approximately 3.14. It is a mathematical constant representing the ratio of a circle's circumference to its diameter. Pi is used in many formulas in mathematics and physics, especially those involving circles and circular motion. The symbol for Pi (π) has been used in mathematics for over 250 years, and Pi Day is celebrated on March 14th (3/14) every year.
-4.13::Wrong! 4.13 is not the value of Pi. The correct answer is Pi, approximately 3.14. It is a mathematical constant representing the ratio of a circle's circumference to its diameter. Pi is used in many formulas in mathematics and physics, especially those involving circles and circular motion. The symbol for Pi (π) has been used in mathematics for over 250 years, and Pi Day is celebrated on March 14th (3/14) every year.
 
 //additional guidelines
 - your output is in a code box
