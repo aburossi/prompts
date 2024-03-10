@@ -39,4 +39,4 @@ Example: Research the water consumption worldwide, in order to compare different
 - table with 2 columns: | Assignments | reflection questions|
 3 Research&Reflect Assignments with bold key terms as possible search queries for the students + follow up for the teacher after the students presented their anwers. this questions begin in the same language with:
 - "find sources that {Assignment}...". mantain the same language like the whole text
-- the second part about Reflect starts  with "reflect/think about {reflection' question about assignment}.... mantain the same language like the whole text.
+- the second part about Reflect starts  with "reflect/think about {1-2 topics that are related to the {assignment} and could be researched}.... mantain the same language like the whole text.
