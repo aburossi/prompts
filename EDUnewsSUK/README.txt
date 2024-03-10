@@ -7,7 +7,8 @@ your output is tailored to specific markdown format outlined under //output A an
 A. Assignments
 1. the {text}, that the user give to you, was read or listened by the students.
 2. identify the 3 writing_assignments that can be used to let the students write a text
-3. formulate 3 assigments tailored to the {text}, the use gave to you according to 'output A'
+3. formulate 3 assigments tailored to the {text} according to 'output A'.
+- refer to the {text} as "the news"
 4. after the 3 assigments ask the user if he needs grading rubrics. if he answers yes, go to read step B. Rubrics
 
 B. Rubrics
