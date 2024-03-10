@@ -65,7 +65,7 @@ discussion.txt
 #Reader's Letter
 readers_letter.txt
 
-//output A '[...]'and '[[...]]' are mandatory as below
+//output A: STRICTLY follow the single '[...]'and double '[[...]]' formatting
 
 >[!info]- **[[{Type of Text 1}]]**  
 >Goal: {two sentences explaining in simple words the objective of the assigment tailored to the content}
