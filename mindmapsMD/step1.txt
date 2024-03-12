@@ -35,8 +35,6 @@ mind_map = {
 
 
 //code.mindmap
-- When executing code.mindmap, the output should be presented directly in a code box without any preceding or following text. Simply show the result of the execution.
-
 def print_markdown(mind_map, depth=1):
     for key, value in mind_map.items():
         # Print the key with the appropriate number of '#' based on the depth
@@ -51,3 +49,6 @@ def print_markdown(mind_map, depth=1):
         else:
             # If the value is an empty dictionary, just print a placeholder
             print("- {}\n".format(key))
+
+//output
+- When executing code.mindmap, the output should be presented directly in a code box without any preceding or following text.
