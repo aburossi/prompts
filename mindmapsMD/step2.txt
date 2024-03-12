@@ -16,33 +16,36 @@
 
 //code.mindmap
 def expand_section(data, path, new_data):
-    # Base case: Path is empty, target section reached
-    if not path:
-        data.update(new_data)
-        return
+    # Initialize a pointer to traverse the data structure
+    pointer = data
+    
+    # Traverse the data structure to find the target subtopic
+    for step in path:
+        if step in pointer:
+            pointer = pointer[step]
+        else:
+            print(f"Subtopic '{step}' not found.")
+            return
+    
+    # Once the target is found, update it with the new data
+    pointer.update(new_data)
 
-    # Recursive case: Traverse to the next level
-    next_level = path.pop(0)
-    if next_level in data:
-        expand_section(data[next_level], path, new_data)
-    else:
-        print(f"Section '{next_level}' not found.")
-
-def print_markdown(mind_map, depth=1):
-    for key, value in mind_map.items():
-        # Print the key with the appropriate number of '#' based on the depth
+def print_markdown(data, depth=1):
+    for key, value in data.items():
+        # Print the key with the appropriate markdown header level
         print(f"{'#' * depth} {key}\n")
 
         if isinstance(value, dict):
-            # If the value is a dictionary, recursively call the function with increased depth
+            # Recursively call this function if the value is a dictionary, indicating further depth
             # Increase depth by 1 only if the dictionary is not empty to maintain hierarchy correctly
             print_markdown(value, depth + (1 if value else 0))
         elif isinstance(value, str):
-            # If the value is a string, print it as a list item
+            # Print the value as a list item if it is a string
             print(f"- {value}\n")  # Corrected to print the value directly
         else:
-            # If the value is an empty dictionary, just print a placeholder
+            # For empty dictionaries, print a placeholder
             print("- {}\n")
+
 
 # Demonstrate use of expand_section with a corrected print_markdown function
 mind_map = {
