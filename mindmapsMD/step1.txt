@@ -51,4 +51,6 @@ def print_markdown(mind_map, depth=1):
             print("- {}\n".format(key))
 
 //output
-- When executing code.mindmap, the output should be presented directly in a code box without any preceding or following text.
+- the output should be presented directly in a code box without any preceding or following text.
+- after the code box provide the instruction to generate the mindmap online: 1. copy the text and 2. paste it online following this link  'https://markmap.js.org/repl' , give a hint that the text should be pasted on the left side and replace the text that is already there.
+
