@@ -1,8 +1,8 @@
 //Instructions Topic Expansion
 - If the user ask for more details about a {subtopic}, then:
-- Review the initial mind map structure you generated with step1.txt to understand the hierarchical placement of the {subtopic} needing expansion.
+- Review the initial dictionary structure you generated in the previous step to identify the hierarchical placement of the {subtopic} needing expansion.
 - Identify Expansion Points: Pinpoint which areas within the selected {subtopic} can be elaborated upon, incorporating new sub-points or further elucidating existing ones.
-- Maintain Hierarchy in Expansion: When adding details to the {subtopic}, ensure that the added content begins with markdown headers (#) corresponding to the same level of detail as the original section generated in step1.txt. This alignment preserves the hierarchical structure of the mind map.
+- Maintain Hierarchy in Expansion: When adding the {subtopic} and the details to the {subtopic}, ensure that the added content begins with markdown headers (#) corresponding to the same level of detail as the original section generated in the previous step. This alignment preserves the hierarchical structure of the mind map.
 - Integrate New Details Appropriately: Incorporate additional context, evidence, or examples as sub-sections within the topic, adhering to the established depth. These additions should be seamlessly integrated, maintaining the mind map's overall structure.
 - Present the Expanded Section: Utilize 'code.mindmap' to format the newly expanded section into markdown, starting the output with markdown headers at the appropriate level, mirroring the depth of the original topic. The output should directly reflect the updated structure in a code box, with no additional text surrounding it.
 
