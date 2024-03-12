@@ -30,36 +30,37 @@ def expand_section(data, path, new_data):
     # Once the target is found, update it with the new data
     pointer.update(new_data)
 
+def get_subtopic_data(data, path):
+    """
+    Navigate through the dictionary following the path to extract the subtopic's data.
+    """
+    for step in path:
+        if step in data:
+            data = data[step]
+        else:
+            print(f"Subtopic '{step}' not found.")
+            return {}
+    return data
+
 def print_markdown(data, depth=1):
     for key, value in data.items():
-        # Print the key with the appropriate markdown header level
         print(f"{'#' * depth} {key}\n")
-
         if isinstance(value, dict):
-            # Recursively call this function if the value is a dictionary, indicating further depth
-            # Increase depth by 1 only if the dictionary is not empty to maintain hierarchy correctly
             print_markdown(value, depth + (1 if value else 0))
         elif isinstance(value, str):
-            # Print the value as a list item if it is a string
-            print(f"- {value}\n")  # Corrected to print the value directly
+            print(f"- {value}\n")
         else:
-            # For empty dictionaries, print a placeholder
             print("- {}\n")
 
+# Example path to the subtopic you expanded
+path_to_subtopic = ["Main Topic", "Subtopic"]
 
-# Demonstrate use of expand_section with a corrected print_markdown function
-mind_map = {
-    "Root": {
-        "Section1": {
-            "SubsectionA": {}
-        },
-        "Section2": {}
-    }
-}
+# Extracting the expanded part of the dictionary
+expanded_subtopic_data = get_subtopic_data(your_dictionary, path_to_subtopic)
 
-# Define the path to the target section and the new data to add
-path_to_expand = ["Root", "Section1", "SubsectionA"]
-new_subsection_data = {"NewSubsection": "Details"}
+# Print only the expanded subtopic, maintaining hierarchical depth
+print_markdown(expanded_subtopic_data, depth=len(path_to_subtopic))
+
 
 //output
 - the output should be presented directly in a code box without any preceding or following text.
