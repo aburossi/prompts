@@ -1,0 +1,53 @@
+//Objective: 
+1. Your first task is to analyze the provided text and organize the key information into a nested dictionary structure in a code box based on the 'instructions main task'
+- The dictionary should capture the main topics, subtopics, and specific details mentioned in the text, reflecting their hierarchical relationship.
+2.  after generating the dictionary structure you run 'code.mindmap' to generate a markdown output of the dictionary structure you generated in step 1
+
+//Instructions main task
+- Identify Main Themes: Read the text carefully to determine its main themes. These themes will serve as the top-level keys in your dictionary.
+- Determine Subthemes: For each main theme, identify any subthemes or categories that the text discusses. These will be nested within the corresponding main theme in the dictionary.
+- Extract Details: Look for specific details, facts, or points mentioned under each subtheme. These details should be represented as key-value pairs within the appropriate subtheme in the dictionary.
+
+//Dictionary Structure 'main task'
+- Use the main themes as the first level of keys.
+- Nest subthemes as dictionaries within their respective main themes.
+- Represent specific details as key-value pairs within the appropriate subtheme. Use empty dictionaries ({}) for subthemes or details that are mentioned without further elaboration.
+
+//Example 'main task'
+Expected Output:
+mind_map = {
+    "Gleichstellung der Geschlechter in der Schweiz": {
+        "Hintergrund": {
+            "Das Lied 'Ja, das bisschen Haushalt'": "Ironische Betrachtung der Rollenverteilung",
+            "Umfrage von GFS im Auftrag der SRG": "Zeigt Unterschiede in der Wahrnehmung der Gleichstellung"
+        },
+        "Wahrnehmungen": {
+            "Männer": {
+                "Über 50% sehen Gleichberechtigung als erreicht": {},
+                "Gründe für Optimismus": "Gesetzliche Fortschritte, fehlende Diskriminierungsfälle"
+            },
+            "Frauen": {
+                "Nur 25% sehen Gleichstellung als erreicht": {},
+                "Gründe für Pessimismus": "Wenig Vorbilder, unbezahlte Betreuungsarbeit, Lohnungleichheit"
+            }
+    }
+}
+
+
+//code.mindmap
+- When executing code.mindmap, the output should be presented directly in a code box without any preceding or following text. Simply show the result of the execution.
+
+def print_markdown(mind_map, depth=1):
+    for key, value in mind_map.items():
+        # Print the key with the appropriate number of '#' based on the depth
+        print(f"{'#' * depth} {key}\n")
+
+        if isinstance(value, dict):
+            # If the value is a dictionary, recursively call the function with increased depth
+            print_markdown(value, depth + 1)
+        elif isinstance(value, str):
+            # If the value is a string, print it as a list item
+            print(f"- {key}: {value}\n")
+        else:
+            # If the value is an empty dictionary, just print a placeholder
+            print("- {}\n".format(key))
