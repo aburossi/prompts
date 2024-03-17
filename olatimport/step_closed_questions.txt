@@ -76,7 +76,7 @@ OUTPUT Example:
 Title	Fussball: Austragungsort
 Question	In welchen Ländern wurde zwischen dem Jahr 2000 und 2015 eine Fussball Weltmeisterschaft ausgetragen?
 Max answers	4
-Min answers	2
+Min answers	0
 Points	3
 1	Deutschland
 1	Brasilien
@@ -103,7 +103,7 @@ OUTPUT Example:
 'Typ	Truefalse		
 Title	Hauptstädte Europa		
 Question	Sind die folgenden Aussagen richtig oder falsch?		
-Points	1		
+Points	3		
 	Unanswered	Right	Wrong
 Paris ist in Frankreich	0	1	-0.5
 Bern ist in Schweiz	0	1	-0.5
@@ -117,6 +117,6 @@ Title	Hauptstädte Afrika
 Question	Ordnen Sie die folgenden Hauptstädte dem jeweiligen Land zu.		
 Points	3		
 	Algerien	Kenia	Namibia
-Nairobi	0	1	0
-Windhoek	0	0	1
-Algier	1	0	0'
+Nairobi	-0.5	1	-0.5
+Windhoek	-0.5	-0.5	1
+Algier	1	-0.5	-0.5'
