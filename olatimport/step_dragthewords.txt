@@ -67,7 +67,7 @@ Example:
 //OLAT_import
 import re
 
-def reformat_to_lms_with_instructions_and_blanks_and_modifications(full_text):
+def reformat_to_lms_with_single_pencil_mark(full_text):
     # Split the input into instructions and text based on the first newline character
     instructions, text = full_text.strip().split('\n', 1)
     
@@ -87,40 +87,37 @@ def reformat_to_lms_with_instructions_and_blanks_and_modifications(full_text):
     output = [
         "Type\tInlinechoice",
         "Title\tWörter auswählen",  # Example title, can be dynamically set
-        f"Question\tText:\n{instructions}",  # Instructions taken from the first line of input
+        f"Question\t{instructions}",  # Instructions from the first line of input
         f"Points\t{len(inline_choices)}",  # The number of inline choices equals the number of points
+        "Text\t✏"  # "Text ✏" appears only once here, right after Points
     ]
     
-    # Always add "Text ✏" before the first text segment
-    first_text_segment_added = False
-
-    # Replace the inline choices with the correct format
+    # Replace the inline choices with the correct format, without inserting "Text ✏" before each segment
     text_cursor = 0  # Keep track of our position in the original text
     for choice in inline_choices:
         # Find the position for the current choice, starting from the last position we checked
         position = text.find(f"*{choice}*", text_cursor)
         # Extract the text segment before the choice
         segment = text[text_cursor:position].rsplit(' ', 1)[0]
-        # Append "Text ✏" and the segment and formatted choice to the output
-        if not first_text_segment_added:
-            output.append(f"Text\t✏\nText\t{segment.strip()}")
-            first_text_segment_added = True
-        else:
-            output.append(f"Text\t✏\nText\t{segment.strip()}")
+        # If this is the first choice, don't prepend anything. Otherwise, prepend with new line break as needed
+        output_segment = segment.strip() if text_cursor == 0 else f"\nText\t{segment.strip()}"
+        # Append the segment and formatted choice to the output
+        output.append(f"Text\t{output_segment}")
         output.append(f"1\t{dropdown_options}\t{choice}")
         # Update the cursor position to the end of the current choice
         text_cursor = position + len(choice) + 2  # +2 for the asterisks
     
     # Append the last part of the text, if any, after the last choice
     if text_cursor < len(text):
-        output.append(f"Text\t✏\nText\t{text[text_cursor:].strip()}")
+        output.append(f"Text\t{text[text_cursor:].strip()}")
 
     # Join the output list into a single string with proper new lines
     return "\n".join(output)
 
 # Example usage
-input_text = """Ziehen Sie die Wörter an die richtige Stelle, um die Sätze korrekt zu vervollständigen.
-In diesem Text gibt es *Lücken*, die *gefüllt* werden müssen."""
-formatted_text = reformat_to_lms_with_instructions_and_blanks_and_modifications(input_text)
+input_text = """Ziehen Sie die Wörter an die richtige Stelle, um die Sätze korrekt zu vervollständigen:
+Ein Lehrvertrag ist eine wesentliche Grundlage des Lehrverhältnisses und muss schriftlich abgefasst werden. Die Probezeit in einem Lehrverhältnis darf nicht weniger als einen Monat und nicht mehr als drei Monate betragen. Wenn ein Lernender mit einem neuen Gesetz nicht einverstanden ist, kann er eine Unterschriftensammlung für ein Referendum initiieren."""
+formatted_text = reformat_to_lms_with_single_pencil_mark(input_text)
 print(formatted_text)
+
 
