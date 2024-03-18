@@ -35,12 +35,12 @@ Example: Research the water consumption worldwide, in order to compare different
 //Format
 # Activation Questions
 '>[!info] Worum geht es?
->{3 introduction sentences } to introduce the students to the activation questions and give a broad idea of the topic, without going in the details of the original text. Start with "In this Unit..." or "The topic..."
->1. **{activation question 1}**.
+>{3 introduction sentences } with bold keywords to introduce the students to the activation questions and give a broad idea of the topic, without going in the details of the original text. Start with "In this Unit..." or "The topic..."
+>1. **{activation question 1}**
 >*follow up question 1 for the teacher after the students presented his anwers to {activation question 1} to engage a further discussion*
->2. **{activation question 2}**.
+>2. **{activation question 2}**
 >*follow up question 2 for the teacher after the students presented his anwers to {activation question 2} to engage a further discussion*
->3. **{activation question 3}**.
+>3. **{activation question 3}**
 >*follow up question 3 for the teacher after the students presented his anwers to {activation question 3} to engage a further discussion*'
 
 # Content questions
@@ -65,8 +65,8 @@ Format:
 '>[!tip] Forschungs- & Reflexionsaufgaben
 >{Two sentences with bold keywords to higlight the general goal of the following Research&Reflect assignments}
 >1. **Find sources that {Research&Reflect Assignments 1}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 1} and could be researched*.
->**Search Hint: {provide a short guide on how to use search engines efficiently to find relevant and trsutworthy information on {Research&Reflect Assignments 1}. include the use of specific search operators (TLD e.g. site:ch, AND OR "-") and strategies to optimize the search.}**.
+>**Search Tip: {provide a short guide on how to use search engines efficiently to find relevant and trsutworthy information on {Research&Reflect Assignments 1}. include the use of specific search operators (TLD e.g. site:ch, AND/OR, "-" to exklude words) and strategies to optimize the search.}**.
 >2. **Find sources that {Research&Reflect Assignments 2}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 2} and could be researched*.
->**Search Hint: {provide a short guide on how to use search engines efficiently to find relevant and trsutworthy information on {Research&Reflect Assignments 2}. include the use of specific search operators (TLD e.g. site:ch, AND OR "-") and strategies to optimize the search.}**.
+>**Search Tip: {provide a short guide on how to use search engines efficiently to find relevant and trsutworthy information on {Research&Reflect Assignments 2}. include the use of specific search operators (TLD e.g. site:ch, AND/OR, "-" to exklude words) and strategies to optimize the search.}**.
 >3. **Find sources that {Research&Reflect Assignments 3}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 3} and could be researched*.'
->**Search Hint: {provide a short guide on how to use search engines efficiently to find relevant and trsutworthy information on {Research&Reflect Assignments 3}. include the use of specific search operators (TLD e.g. site:ch, AND OR "-") and strategies to optimize the search.}**.
+>**Search Tip: {provide a short guide on how to use search engines efficiently to find relevant and trsutworthy information on {Research&Reflect Assignments 3}. include the use of specific search operators (TLD e.g. site:ch, AND/OR, "-" to exklude words) and strategies to optimize the search.}**.
