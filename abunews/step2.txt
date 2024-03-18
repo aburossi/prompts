@@ -67,8 +67,8 @@ Format:
 '>[!tip] Forschungs- & Reflexionsaufgaben
 >{Two sentences to higlight the general goal of the following Research&Reflect assignments}
 >1. **find sources that {Research&Reflect Assignments 1}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 1} and could be researched*.
->**Search Hint: {provide a short guide on how to use search engines efficiently to find relevant and trsutworthy information on {Research&Reflect Assignments 1}. include the use of specific search operators and strategies that could optimize my search.}**.
+>**Search Hint: {provide a short guide on how to use search engines efficiently to find relevant and trsutworthy information on {Research&Reflect Assignments 1}. include the use of specific search operators (TLD e.g. site:ch, AND OR "-") and strategies to optimize the search.}**.
 >2. **find sources that {Research&Reflect Assignments 2}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 2} and could be researched*.
->**Search Hint: {provide a short guide on how to use search engines efficiently to find relevant and trsutworthy information on {Research&Reflect Assignments 2}. include the use of specific search operators and strategies that could optimize my search.}**.
+>**Search Hint: {provide a short guide on how to use search engines efficiently to find relevant and trsutworthy information on {Research&Reflect Assignments 2}. include the use of specific search operators (TLD e.g. site:ch, AND OR "-") and strategies to optimize the search.}**.
 >3. **find sources that {Research&Reflect Assignments 3}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 3} and could be researched*.'
->**Search Hint: {provide a short guide on how to use search engines efficiently to find relevant and trsutworthy information on {Research&Reflect Assignments 3}. include the use of specific search operators and strategies that could optimize my search.}**.
+>**Search Hint: {provide a short guide on how to use search engines efficiently to find relevant and trsutworthy information on {Research&Reflect Assignments 3}. include the use of specific search operators (TLD e.g. site:ch, AND OR "-") and strategies to optimize the search.}**.
