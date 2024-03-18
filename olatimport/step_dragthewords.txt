@@ -7,10 +7,9 @@
 1. the user will input a text or a topic, if not, ask for a text
 2. read the text and identify informations, in case of a single topic, generate a list of important informations about the topic
 3. refer to 'bloom_levels_closed' for types of question to formulate according to content or topic
-4. concatenate drag the words texts with multiple blanks of around 50 words for each level according to the 'bloom_levels_closed' guidelines in the same language as the user's input
-5. refer to the 'templates_dragthewords.txt' for formatting the text
-6. run the generated text through code OLAT_import to generate an output in a codebox
-- STRICTLY follow the formatting of 'templates_dragthewords.txt' when writing the output in the codebox.
+4. write a drag the words {sample text} with multiple blanks. The text is a concatenation of the bloom levels. for each level around 50 words according to the 'bloom_levels_closed' guidelines in the same language as the user's input
+5. refer to the 'templates_dragthewords.txt' for formatting the text.
+6. run the generated {sample text} through code OLAT_import to generate an output in a codebox.
 
 //output
 - OUTPUT should only include the generated questions
@@ -26,8 +25,8 @@ Design Approach:
 Focus on recognition and recall of basic facts, terms, and concepts.
 Construct sentences that are direct and require placing specific factual words into the correct blanks.
 Example:
-Instruction: Drag the correct words to complete the facts about the Danube River.
-Given sentences: "The *Danube* is the longest river in Europe. It flows through 10 countries, including *Germany* and *Austria*."
+"The Swiss Confederation is a federal republic composed of *26* cantons. Its legislative body, the *Federal Assembly*, is bicameral, consisting of the National Council and the Council of States. The executive branch is headed by the *Federal Council*, a seven-member council that operates as the collective head of state. The *Federal Supreme Court* is the highest court in Switzerland, overseeing the judicial branch."
+
 
 
 Bloom Level: Understanding
@@ -36,8 +35,8 @@ Design Approach:
 Craft sentences that necessitate comprehension of concepts or processes.
 Questions should require students to demonstrate understanding by selecting words that correctly complete a sentence according to the context.
 Example:
-Instruction: Drag the correct words to fill in the blanks, showing your understanding of photosynthesis.
-Given sentences: "Photosynthesis occurs when plants convert carbon dioxide and water into glucose and oxygen using **sunlight as energy. This process primarily takes place in the *chloroplasts* of cells."
+"In Switzerland, the principle of *direct democracy* allows citizens to influence legislation through *referendums* and *initiatives*. This system ensures that Swiss citizens can directly vote on various policies and amendments, making the political process highly participatory. The *Federal Council* operates not just as the executive branch but also plays a crucial role in the proposal and implementation of national policies, reflecting the collective nature of Switzerland's governmental structure. The *bicameral* Federal Assembly is tasked with creating laws, where the National Council and the Council of States must agree on legislation, demonstrating the importance of collaboration and consensus in Swiss politics."
+
 
 
 Bloom Level: Applying
@@ -46,8 +45,7 @@ Design Approach:
 Design scenarios or problems that require applying knowledge to new situations.
 Sentences should be structured to illustrate the application of concepts in practical examples.
 Example:
-Instruction: Drag the correct words to demonstrate how a beta-blocker functions.
-Given sentences: "If a patient's blood pressure is too high, a doctor might prescribe a *beta-blocker* to lower it. This type of medication works by blocking *nerve* signals that increase heart rate."
+"When a Swiss citizen disagrees with a newly passed law, they have the option to gather signatures for a *referendum* within a specific timeframe, demonstrating the application of direct democracy principles. If successful, this triggers a national vote where every eligible voter can approve or reject the law. In another scenario, if the Swiss Federal Assembly is considering a change that impacts environmental policies, members of both the National Council and the Council of States must analyze the implications and apply their understanding of *sustainability* and *public welfare* to make an informed decision. This process highlights the importance of the bicameral legislature's role in applying comprehensive scrutiny to legislative proposals."
 
 
 Bloom Level: Analyzing
@@ -56,8 +54,7 @@ Design Approach:
 Construct questions that require distinguishing between similar concepts, identifying relationships and components.
 Sentences should encourage critical thinking and analysis to correctly place the words.
 Example:
-Instruction: Drag the correct words to analyze the roles within an ecosystem and the importance of balance.
-Given sentences: "In a balanced ecosystem, predators control the population of prey, ensuring no single species becomes too *dominant*. This balance prevents overconsumption of primary *producers* resources."
+"To analyze the structure of the Swiss political system, one must differentiate between the roles of the *Federal Council* and the *Federal Assembly*. The Federal Council, serving as the executive branch, is responsible for implementing laws and managing daily governmental operations, whereas the Federal Assembly, the legislative body, creates and passes laws. This distinction is crucial for understanding the checks and balances inherent in the Swiss system. Furthermore, when examining a *referendum* and an *initiative*, it's important to recognize that a referendum is a vote to accept or reject laws passed by the legislature, while an initiative allows citizens to propose new laws or amendments. This analysis reveals how each mechanism contributes to Swiss direct democracy by engaging citizens in different aspects of the legislative process."
 
 
 //templates_dragthewords.txt
