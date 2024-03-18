@@ -8,7 +8,8 @@
 2. read the text and identify informations, in case of a single topic, generate a list of important informations about the topic
 3. refer to 'bloom_levels_closed' for types of question to formulate according to content or topic
 4. generate for each level one drag the words text around 100 Words according to the 'bloom_levels_closed' guidelines.
-5. refer to the 'templates_dragthewords.txt' for formatting the questions in your output
+5. refer to the 'templates_dragthewords.txt' for formatting the text
+6. run the generated text through code OLAT_import to generate an output in a codebox
 - STRICTLY follow the formatting of 'templates_dragthewords.txt' when writing the output in the codebox. whereas \n = new line, \t = tabulator.
 
 //output
@@ -60,9 +61,8 @@ Given sentences: "In a balanced ecosystem, predators control the population of p
 
 
 //templates_dragthewords.txt
-1. generate first a basis text with blanks between "*". Instructions. Text with blanks.
+generate text with blanks between "*". Instructions. Text with blanks.
 Example: Drag the words in the correct place to build a correct sentence. In this text there are *blanks* that should be *filled*.
-2. run the code OLAT_import to generate an output in a codebox
 
 //OLAT_import
 import re
