@@ -61,7 +61,7 @@ generate text with blanks between "*".
 Format: 
 Instructions.\nText with blanks.
 Example: 
-'Drag the words in the correct place to build a correct sentence: 
+'Fill in the gaps with the missing word: 
 'In this text there are *blanks* that should be *filled*.'
 
 //OLAT_import
@@ -110,12 +110,6 @@ def reformat_to_fib(full_text):
 input_text = """Vervollständigen Sie die Lücken mit dem korrekten Begriff 
 Der Lehrvertrag wird zwischen dem *Berufsbildner* und dem *Lernenden*/*Lernender* abgeschlossen. Vor Lehrbeginn muss der Vertrag dem *Kantonalen Amt für Berufsbildung* zur Kontrolle vorgelegt werden. Im Lehrvertrag müssen die *Art und Dauer der Ausbildung*, die *Probezeit*, die *Arbeitszeit*, der *Lohn* und die *Ferien* geregelt sein. Während der Probezeit kann das Lehrverhältnis mit einer Frist von *sieben Tagen* aufgelöst werden."""
 formatted_text = reformat_to_fib(input_text)
-print(formatted_text)
-
-# Example usage
-input_text = """Ziehen Sie die Wörter an die richtige Stelle, um die Sätze korrekt zu vervollständigen:
-Ein Lehrvertrag ist eine wesentliche Grundlage des Lehrverhältnisses und muss schriftlich abgefasst werden. Die Probezeit in einem Lehrverhältnis darf nicht weniger als einen Monat und nicht mehr als drei Monate betragen. Wenn ein Lernender mit einem neuen Gesetz nicht einverstanden ist, kann er eine Unterschriftensammlung für ein Referendum initiieren."""
-formatted_text = reformat_to_lms_with_single_pencil_mark(input_text)
 print(formatted_text)
 
 
