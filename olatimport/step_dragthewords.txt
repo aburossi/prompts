@@ -56,7 +56,8 @@ Example:
 
 
 //templates_dragthewords.txt
-generate text with blanks between "*". Instructions.\nText with blanks.
+generate text with blanks between "*". Format: 
+Instructions.\nText with blanks.
 Example: 
 'Drag the words in the correct place to build a correct sentence. 
 'In this text there are *blanks* that should be *filled*.'
