@@ -59,7 +59,7 @@ Example:
 generate text with blanks between "*". Format: 
 Instructions.\nText with blanks.
 Example: 
-'Drag the words in the correct place to build a correct sentence. 
+'Drag the words in the correct place to build a correct sentence: 
 'In this text there are *blanks* that should be *filled*.'
 
 //OLAT_import
@@ -85,7 +85,7 @@ def reformat_to_lms_with_instructions_and_blanks(full_text):
     output = [
         "Type\tInlinechoice",
         "Title\tWörter auswählen", # Example title, can be dynamically set
-        f"Question\t{instructions}:",  # Instructions taken from the first line of input
+        f"Question\t{instructions}",  # Instructions taken from the first line of input
         f"Points\t{len(inline_choices)}", # The number of inline choices equals the number of points
     ]
     
