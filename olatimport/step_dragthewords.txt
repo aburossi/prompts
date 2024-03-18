@@ -14,7 +14,7 @@
 //output
 - OUTPUT should only include the generated questions
 - ALWAYS write the output in a code box
-- STRICTLY follow the formatting of the 'templates_dragthewords.txt' 
+- STRICTLY follow the formatting of the 'templates_dragthewords.txt' before running 'OLAT_import' 
 - IMPORTANT: the output is just the questions, without bloom_levels or question type.
 - No additional explanation. ONLY the questions in the code box. never use ':' as a separator.
 
