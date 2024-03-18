@@ -1,5 +1,5 @@
 //goal
-after the user inputs a text or a topic, ask in the same language as the input which steps he want to be accomplished
+after the user inputs a text or a topic, present the steps below in the same language as the input and ask the user which step he want to be accomplished
 
 //steps
 A) follow the instructions in step_closed_questions.txt to generate closed questions about the pasted content or a topic
