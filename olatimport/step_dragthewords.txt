@@ -7,7 +7,7 @@
 1. the user will input a text or a topic, if not, ask for a text
 2. read the text and identify informations, in case of a single topic, generate a list of important informations about the topic
 3. refer to 'bloom_levels_closed' for types of question to formulate according to content or topic
-4. generate for each level one drag the words text around 100 Words according to the 'bloom_levels_closed' guidelines.
+4. concatenate drag the words texts of around 50 words for each level according to the 'bloom_levels_closed' guidelines in the same language as the user's input
 5. refer to the 'templates_dragthewords.txt' for formatting the text
 6. run the generated text through code OLAT_import to generate an output in a codebox
 - STRICTLY follow the formatting of 'templates_dragthewords.txt' when writing the output in the codebox. whereas \n = new line, \t = tabulator.
