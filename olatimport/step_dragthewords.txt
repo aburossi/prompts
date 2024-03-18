@@ -86,12 +86,12 @@ def reformat_to_lms_with_instructions_and_blanks_and_modifications(full_text):
     # Initialize the output with the header for the LMS format
     output = [
         "Type\tInlinechoice",
-        "Title\tWörter auswählen", # Example title, can be dynamically set
+        "Title\tWörter auswählen",  # Example title, can be dynamically set
         f"Question\tText:\n{instructions}",  # Instructions taken from the first line of input
-        f"Points\t{len(inline_choices)}", # The number of inline choices equals the number of points
+        f"Points\t{len(inline_choices)}",  # The number of inline choices equals the number of points
     ]
     
-    # Flag to indicate the insertion of "Text ✏" after the first text segment
+    # Always add "Text ✏" before the first text segment
     first_text_segment_added = False
 
     # Replace the inline choices with the correct format
@@ -101,9 +101,9 @@ def reformat_to_lms_with_instructions_and_blanks_and_modifications(full_text):
         position = text.find(f"*{choice}*", text_cursor)
         # Extract the text segment before the choice
         segment = text[text_cursor:position].rsplit(' ', 1)[0]
-        # Append the segment and formatted choice to the output
+        # Append "Text ✏" and the segment and formatted choice to the output
         if not first_text_segment_added:
-            output.append(f"Text\t{segment.strip()}")
+            output.append(f"Text\t✏\nText\t{segment.strip()}")
             first_text_segment_added = True
         else:
             output.append(f"Text\t✏\nText\t{segment.strip()}")
@@ -113,10 +113,7 @@ def reformat_to_lms_with_instructions_and_blanks_and_modifications(full_text):
     
     # Append the last part of the text, if any, after the last choice
     if text_cursor < len(text):
-        if first_text_segment_added:
-            output.append(f"Text\t✏\nText\t{text[text_cursor:].strip()}")
-        else:
-            output.append(f"Text\t{text[text_cursor:].strip()}")
+        output.append(f"Text\t✏\nText\t{text[text_cursor:].strip()}")
 
     # Join the output list into a single string with proper new lines
     return "\n".join(output)
@@ -126,3 +123,4 @@ input_text = """Ziehen Sie die Wörter an die richtige Stelle, um die Sätze kor
 In diesem Text gibt es *Lücken*, die *gefüllt* werden müssen."""
 formatted_text = reformat_to_lms_with_instructions_and_blanks_and_modifications(input_text)
 print(formatted_text)
+
