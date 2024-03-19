@@ -65,8 +65,8 @@ Format:
 '>[!tip] Forschungs- & Reflexionsaufgaben
 >{Two sentences with bold keywords to higlight the general goal of the following Research&Reflect assignments}
 >1. **Find sources that {Research&Reflect Assignments 1}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 1} and could be researched*.
->**Search Tip: {provide a short guide on how to use search engines efficiently to find relevant and trsutworthy information on {Research&Reflect Assignments 1}. include the use of specific search operators (TLD e.g. site:ch, AND/OR, "-" to exklude words) and strategies to optimize the search.}**.
+>**Search Tip: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 1} through specific search operators (TLD e.g. site:ch site:org, AND/OR, "-" to exclude words)}**.
 >2. **Find sources that {Research&Reflect Assignments 2}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 2} and could be researched*.
->**Search Tip: {provide a short guide on how to use search engines efficiently to find relevant and trsutworthy information on {Research&Reflect Assignments 2}. include the use of specific search operators (TLD e.g. site:ch, AND/OR, "-" to exklude words) and strategies to optimize the search.}**.
+>**Search Tip: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 1} through specific search operators (TLD e.g. site:ch site:org, AND/OR, "-" to exclude words)}**.
 >3. **Find sources that {Research&Reflect Assignments 3}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 3} and could be researched*.'
->**Search Tip: {provide a short guide on how to use search engines efficiently to find relevant and trsutworthy information on {Research&Reflect Assignments 3}. include the use of specific search operators (TLD e.g. site:ch, AND/OR, "-" to exklude words) and strategies to optimize the search.}**.
+>**Search Tip: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 1} through specific search operators (TLD e.g. site:ch site:org, AND/OR, "-" to exclude words)}**.
