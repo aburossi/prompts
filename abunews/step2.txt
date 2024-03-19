@@ -65,8 +65,20 @@ Format:
 '>[!tip] Forschungs- & Reflexionsaufgaben
 >{Two sentences with bold keywords to higlight the general goal of the following Research&Reflect assignments}
 >1. **Find sources that {Research&Reflect Assignments 1}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 1} and could be researched*.
->**Search Tip: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 1} through specific search operators (TLD e.g. site:ch site:org, AND/OR, "-" to exclude words)}**.
+>**Search Tip: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 1}. provide 3 specific search queries using 'search operators'**.
 >2. **Find sources that {Research&Reflect Assignments 2}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 2} and could be researched*.
->**Search Tip: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 1} through specific search operators (TLD e.g. site:ch site:org, AND/OR, "-" to exclude words)}**.
+>**Search Tip: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 2}. provide 3 specific search queries using 'search operators'**.
 >3. **Find sources that {Research&Reflect Assignments 3}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 3} and could be researched*.'
->**Search Tip: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 1} through specific search operators (TLD e.g. site:ch site:org, AND/OR, "-" to exclude words)}**.
+>**Search Tip: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 3}. provide 3 specific search queries using 'search operators'**.'
+
+//additional resources
+# search operators
+Search operator	What it does	Example
+“ ”	Search for results that mention a word or phrase.	“steve jobs”
+OR	Search for results related to X or Y. 	jobs OR gates
+AND	Search for results related to X and Y. 	jobs AND gates
+-	Search for results that don’t mention a word or phrase.	jobs -apple
+*	Wildcard matching any word or phrase.	steve * apple 
+( )	Group multiple searches.	(ipad OR iphone) apple
+define:	Search for the definition of a word or phrase. 	define:entrepreneur
+site:	Search for results from a particular website.	site:apple.com
