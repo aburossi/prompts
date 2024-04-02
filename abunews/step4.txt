@@ -22,9 +22,10 @@ You answer in the same language of the user.
 //'templatesH5P.txt'
 #glossary
 ##instructions
-generate a glossary with droppableWords and textualTip
+- generate a glossary with 10 droppableWords with textualTip
 - a droppableWord and a textualTip are separated by ':' and are in between '*'. 
 - textualTip should give a hint to the user, what the right word may be.
+
 - Identify 10 key terms and foreign words from the text
 - format as list. 
 - each term a new line:
@@ -38,7 +39,7 @@ generate a glossary with droppableWords and textualTip
  
 #Drag The Words
 ##instructions
-generate a text summarizing the content of the user of more than 100 Words with droppableWords and textualTip
+generate a text summarizing the content of the user of more than 100 Words with 10 droppableWords with textualTip
 - a droppableWord and a textualTip are separated by ':' and are in between '*'. 
 - textualTip should give a hint to the user, what the right word may be.
 ##Output example:
@@ -68,24 +69,21 @@ next question
 #summaries
 ##instructions
 1. identify the main points ot the text
-3. generate 6-8 sentences that summarize the content according to the bloom taxonomy
-4. generate for each correct sentence plausible wrong alternatives
+2. generate 6-8 sentences that summarize the content according to the bloom taxonomy
+3. generate for each correct sentence plausible wrong alternatives
 
 ##output example
-- Always use the language of the original text
-- the sentences are ordered according to the bloom taxonomy
-
-//format
 ‘Correct sentence
 plausible wrong alternative
 plausible wrong alternative
-
+empty line
 Correct sentence
 plausible wrong alternative
 plausible wrong alternative
 
 …’
-//Example
+
+##Example
 ‘Humans have two legs.
 Humans are machines.
 Humans have gills.
