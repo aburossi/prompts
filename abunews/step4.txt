@@ -66,12 +66,13 @@ next question
 empty line
 next question
 
-#summary
+#buildsummary
 ##instructions
 1. identify the main points ot the text
-2. generate 6-8 correct sentences that summarize the content of the text
+2. generate 6 to 8 correct sentences that summarize the content of the text
 3. generate for each correct sentence two plausible wrong alternatives
-4. the group of sentences are separated by an empty line
+4. group the correct and wrong sentences 
+5. separate the groups by an empty line
 
 ##output example
 ‘Correct sentence
