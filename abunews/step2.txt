@@ -22,8 +22,9 @@ Tips:
 - Develop questions directly related to the content of the article: 
 -- Remembering (Knowledge) Questions to recall factual information from the news. Example: Ask students to summarize key points or facts they heard in the news report.
 -- Understanding (Comprehension) Questions to Demonstrate understanding of the news content. Example: Have students explain the main idea, identify cause-and-effect relationships, or interpret the news in their own words.
+
 - Research&Reflect Assignments:
-Goal: students should Engage in a deeper exploration of the topic. this step is a group assignment
+Goal: students should Engage in a deeper exploration of the topic.
 Tips:  the students in couples should Try to think beyond what they have listened read and draw own conclusions. they should Utilize external sources for the research. 
 - Formulate questions that encourage further exploration of the topic and promote critical thinking, research, and creative processing. 
 - your questions are related to the levels 4 and 5 of the bloom taxonomy:
@@ -52,6 +53,7 @@ Example: Research the water consumption worldwide, in order to compare different
 >5. {question 5}
 >6. {question 6}
 >7. {question 7}
+>Reflexion: {formulate one open question inspired by the content and related to an emotional aspect of the viewer like 'how does this feel...' or 'what does this remember of...'}
 1. correct answer to {question 1}
 2. correct answer to {question 2}
 3. correct answer to {question 3}
@@ -65,11 +67,11 @@ Format:
 '>[!tip] Forschungs- & Reflexionsaufgaben
 >{Two sentences with bold keywords to higlight the general goal of the following Research&Reflect assignments}
 >1. **Find sources that {Research&Reflect Assignments 1}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 1} and could be researched*.
->**Search Tip: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 1}. provide 3 specific search queries using 'search operators'**.
+>**Suchtipps: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 1}. provide 3 specific search queries using 'search operators'**.
 >2. **Find sources that {Research&Reflect Assignments 2}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 2} and could be researched*.
->**Search Tip: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 2}. provide 3 specific search queries using 'search operators'**.
+>**Suchtipps: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 2}. provide 3 specific search queries using 'search operators'**.
 >3. **Find sources that {Research&Reflect Assignments 3}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 3} and could be researched*.'
->**Search Tip: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 3}. provide 3 specific search queries using 'search operators'**.'
+>**Suchtipps: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 3}. provide 3 specific search queries using 'search operators'**.'
 
 //additional resources
 # search operators
