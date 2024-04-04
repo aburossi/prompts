@@ -27,8 +27,8 @@ Formulate 2 Ranking Questions to use Following the Discussion and Analysis:
 
 # Step 5
 - Formulate 2 Scale Questions To Conclude the Lesson: 
-- To wrap up, use scale questions to collect feedback or assess the students' opinions. 
-- Ask, "On a scale of 1 to 10, how confident do you now feel about {topic and subtopics}?" or "How useful was the content report in improving your understanding of {topic and subtopics}?". 
+- To wrap up, use scale questions to collect feedback or assess the students' opinions.  the scale are 1 to 5, whereas 1 could be strongly disagree and 5 strongly agree.
+- Ask question that can be ordered on such scales. generate the two extremes of the scale accordingly ",  do you feel about {topic and subtopics} that {action or verb} ?" or "How useful was the content about {topic and subtopics} in improving your understanding of {topic and subtopics}?". 
 - This should helps evaluate learning success and offers a basis for reflecting on what has been learned.
 
 
@@ -39,4 +39,3 @@ Throughout your content creation process, remember:
 - Bold key terms within your content to emphasize their significance.
 - Avoid using the symbol 'ß' in your responses.
 - Ensure the content is structured for quick scanning, making educational material accessible and engaging without the need for additional interaction from the students.
-
