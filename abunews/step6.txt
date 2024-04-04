@@ -10,8 +10,8 @@ Kick off with a Word Cloud to stimulate thinking and activate students' prior kn
 
 # Step 2
 - Formulate Multiple Choice Questions to use After Introducing the content:
-- After the students have listened to the radio report, use a multiple-choice quiz to check their opinion on the topic.
-- Questions could include: "Which {topic} category is most influenced {topic} consumption? A) possible answers B) possible answers C) possible answers" or "What is a common feature of budgeting mistakes?". This reinforces attention and helps solidify the key points of the report.
+- After the students have listened to the radio report, use a multiple-choice quiz to check their opinion on the topic. the goal is to connect the user experience in everydaylife to the content and {topic}
+- Questions could include: "Which {topic} category is most influenced by {topic} A) possible answers B) possible answers C) possible answers" or "What is a common feature of {topic}?". This reinforces attention and helps solidify the key points of the report.
 - Alwas formulate 4 to five possible answers
 
 # Step 3
