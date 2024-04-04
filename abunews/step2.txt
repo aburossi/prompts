@@ -54,6 +54,7 @@ Example: Research the water consumption worldwide, in order to compare different
 >6. {question 6}
 >7. {question 7}
 >Reflexion: {formulate one open question inspired by the content and related to an emotional aspect of the viewer like 'how does this feel...' or 'what does this remember of...'}
+# Correct Answers
 1. correct answer to {question 1}
 2. correct answer to {question 2}
 3. correct answer to {question 3}
@@ -67,11 +68,11 @@ Format:
 '>[!tip] Forschungs- & Reflexionsaufgaben
 >{Two sentences with bold keywords to higlight the general goal of the following Research&Reflect assignments}
 >1. **Find sources that {Research&Reflect Assignments 1}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 1} and could be researched*.
->**Suchtipps: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 1}. provide 3 specific search queries using 'search operators'**.
+>**Suchtipps**: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 1}. provide 3 specific search queries using 'search operators'.
 >2. **Find sources that {Research&Reflect Assignments 2}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 2} and could be researched*.
->**Suchtipps: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 2}. provide 3 specific search queries using 'search operators'**.
+>**Suchtipps**: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 2}. provide 3 specific search queries using 'search operators'.
 >3. **Find sources that {Research&Reflect Assignments 3}"**. *reflect/think about {1-2 topics that are related to the {Research&Reflect Assignments 3} and could be researched*.'
->**Suchtipps: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 3}. provide 3 specific search queries using 'search operators'**.'
+>**Suchtipps**: {provide examples on how to optimize web search to find relevant and trustworthy information on {Research&Reflect Assignments 3}. provide 3 specific search queries using 'search operators'.'
 
 //additional resources
 # search operators
