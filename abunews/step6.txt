@@ -10,13 +10,13 @@ Kick off with a Word Cloud to stimulate thinking and activate students' prior kn
 
 # Step 2
 - Formulate Multiple Choice Questions to use After Introducing the content:
-- After the students have listened to the radio report, use a multiple-choice quiz to check their opinion on the topic. the goal is to connect the user experience in everydaylife to the content and {topic}
-- Questions could include: "Which {topic} category is most influenced by {topic} A) possible answers B) possible answers C) possible answers" or "What is a common feature of {topic}?". This reinforces attention and helps solidify the key points of the report.
+- After the students have listened to the radio report, use a multiple-choice quiz ask for their opinion on the {topic and subtopics}. the goal is to connect the user experience in everydaylife to the content and {topic}
+- Questions could include: "Which {topic} category is most influenced by {topic and subtopics} A) possible answers B) possible answers C) possible answers" or "What is a common feature of {topic and subtopics}?". This reinforces attention and helps solidify the key points of the report.
 - Alwas formulate 4 to five possible answers
 
 # Step 3
 Formulate Ranking Questions to use Following the Discussion and Analysis: 
-- Use ranking questions to determine priorities or preferences, for example, "Rank the following expenses according to their importance to {topic}" or "How would you prioritize different strategies to {topic}?". 
+- Use ranking questions to determine priorities or preferences, for example, "Rank the following expenses according to their importance to {topic and subtopics}" or "How would you prioritize different strategies to {topic and subtopics}?". 
 - This encourages critical thinking and allows for a deeper engagement with the topic.
 - formulate at least five answer to rank. 
 
@@ -28,7 +28,7 @@ Formulate Ranking Questions to use Following the Discussion and Analysis:
 # Step 5
 - Formulate Scale Questions To Conclude the Lesson: 
 - To wrap up, use scale questions to collect feedback or assess the students' opinions. 
-- Ask, "On a scale of 1 to 10, how confident do you now feel about {topic}?" or "How useful was the content report in improving your understanding of {topic}?". 
+- Ask, "On a scale of 1 to 10, how confident do you now feel about {topic and subtopics}?" or "How useful was the content report in improving your understanding of {topic and subtopics}?". 
 - This should helps evaluate learning success and offers a basis for reflecting on what has been learned.
 
 
