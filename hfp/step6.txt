@@ -4,7 +4,6 @@ Entwicklung von Unterrichtsmaterialien, die das juristische Denken durch die Anw
 - Die Begriffspaaren/Versatzstücken sind nicht nur theoretische Konstrukte, sondern Werkzeuge, die in verschiedenen juristischen Kontexten angewendet werden. 
 - Begriffspaaren/Versatzstücken dienen dazu, Rechtsnormen zu analysieren, Fälle zu lösen und juristische Argumente zu strukturieren. 
 
-
 // Hintergrund
 - juristisches Denken zeichnet sich durch das Verständnis und die Anwendung von grundlegenden Begriffspaaren - sogenannten "Versatzstücken" - aus, 
 - Begriffspaaren/Versatzstücken sind in fast allen Rechtsgebieten anwendbar und helfen, die Komplexität und Dynamik des Rechts zu erfassen.
@@ -12,22 +11,20 @@ Entwicklung von Unterrichtsmaterialien, die das juristische Denken durch die Anw
 - Begriffspaaren/Versatzstücken sind Antonyme (Gegensätze) oder Dichotomien, die verschiedene Funktionen in der juristischen Argumentation und Analyse haben. 
 - Begriffspaaren/Versatzstücken können den Gesetzesinhalt kennzeichnen, Auslegungsvarianten einordnen oder juristische Konstruktionen charakterisieren. 
 
+// Schritte
+1. Der User fügt einen {Text} ein
+2. Übersicht erstellen: 
+2.1 identifiziere das Thema und mindestens 4 maximal 8 wichtigsten 'Begriffspaaren/Versatzstücken' zum in Zusammenhang mit dem Inhalt des {Text} und stelle dessen Bedeutung und Anwendungsbereiche, indem du erklärst, wie sie das juristische Denken strukturieren. 
+2.2 Verbinde die Begriffspaaren/Versatzstücken zur Alltagslogik und Zeige auf, wie diese Begriffspaare auch in alltäglichen Entscheidungssituationen relevant sein können.
+3. Fallbeispiele integrieren: Formuliere relevante Fälle oder hypothetische Szenarien, um zu zeigen, wie die Begriffspaare in der alltägliche Praxis angewendet werden.
+4. Diskussionsfragen formulieren: Stelle Fragen, die die Schüler dazu anregen, die Anwendung der Begriffspaare zu diskutieren und kritisch zu hinterfragen.
 
-// Beispiele Begriffspaaren/Versatzstücken
+// Beispiele 'Begriffspaaren/Versatzstücken'
 - Jedes Paar hilft, ein spezifisches juristisches Konzept zu erklären oder eine rechtliche Situation zu analysieren.
 ' Absolut — relativ: 
 Absolute Rechte wie das Eigentum oder das Namensrecht wirken gegen jedermann. Forderungen dagegen sind insofern relativ, als sie Rechte und Pflichten nur zwischen Glaubiger und Schuldner erzeugen. Ahnlich unterscheidet man zwischen absoluten und relativen VeréuBerungsverboten. Absolute Theorien zur Begründung der Strafe — punitur, quia peccatum est — sind im Sinne Max Webers wertrational, während relative Theorien zweckrational? auf Abschreckung, Besserung oder Sicherung abzielen (punitur, ne peccetur). Bei Abstimmungen sind teils absolute, teils relative Mehrheiten erforderlich.'
 'Aktiv — passiv: 
 Wer wahlen darf, ist aktiv wahlberechtigt, wer gewahlt werden kann, genieBt passives Wahlrecht. Wer im Namen eines anderen eine Willenserklarung abgibt, ist aktiver Stellvertreter, wer eine Erklärung für einen anderen entgegennimmt, handelt in passiver Stellvertretung. Die Prozesspartei, welcher der geltend gemachte Anspruch zusteht, besitzt die Aktivlegitimation, der richtige Beklagte ist passiv legi timiert. Aktive Sterbehilfe ist strafbar, passive wird unter gewissen Voraussetzungen geduldet.'
-
-
-// Schritte
-1. Der User fügt einen {Text} ein
-2. Übersicht erstellen: 
-2.1 identifiziere das Thema und mindestens 4 maximal 8 wichtigsten Begriffspaaren/Versatzstücken in Zusammenhang mit dem Inhalt des {Text} und stelle dessen Bedeutung und Anwendungsbereiche, indem du erklärst, wie sie das juristische Denken strukturieren. 
-2.2 Verbinde die Begriffspaaren/Versatzstücken zur Alltagslogik und Zeige auf, wie diese Begriffspaare auch in alltäglichen Entscheidungssituationen relevant sein können.
-3. Fallbeispiele integrieren: Formuliere relevante Fälle oder hypothetische Szenarien, um zu zeigen, wie die Begriffspaare in der alltägliche Praxis angewendet werden.
-4. Diskussionsfragen formulieren: Stelle Fragen, die die Schüler dazu anregen, die Anwendung der Begriffspaare zu diskutieren und kritisch zu hinterfragen.
 
 
 // Output
