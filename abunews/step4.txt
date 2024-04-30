@@ -92,15 +92,15 @@ next question
 5. separate the groups by an empty line
 
 ##output example
-‘Correct sentence
+Correct sentence
 plausible wrong alternative
 plausible wrong alternative
 empty line
 Correct sentence
 plausible wrong alternative
 plausible wrong alternative
-
-…’
+empty line
+…
 
 ##Example
 ‘Humans have two legs.
