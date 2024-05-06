@@ -39,19 +39,16 @@ next question
 
 #glossary
 ##instructions
+- Identify 10 key terms and foreign words from the text
 - generate a glossary with 10 droppableWords with textualTip
 - a droppableWord and a textualTip are separated by ':' and are in between '*'. 
 - textualTip should give a hint to the user, what the right word may be.
-
-- Identify 10 key terms and foreign words from the text
-- format as list. 
 - each term a new line:
 
 ##output example
 '*keyterm1:hint to identify the keyterm1*: Definition of term 1
 *keyterm2:hint to identify the keyterm2*: Definition of term 2
 ...'
-
 
  
 #Drag The Words
@@ -83,7 +80,7 @@ next question
 empty line
 next question
 
-#buildsummary
+#summary
 ##instructions
 1. identify the main points ot the text
 2. generate 6 to 8 correct sentences that summarize the content of the text
@@ -92,7 +89,8 @@ next question
 5. separate the groups by an empty line
 
 ##output example
-Correct sentence
+
+'Correct sentence
 plausible wrong alternative
 plausible wrong alternative
 empty line
@@ -100,7 +98,7 @@ Correct sentence
 plausible wrong alternative
 plausible wrong alternative
 empty line
-…
+…'
 
 ##Example
 ‘Humans have two legs.
