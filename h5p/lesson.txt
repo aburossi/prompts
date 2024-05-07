@@ -54,6 +54,7 @@ Example: Research the water consumption worldwide, in order to compare different
 >7. {question 7}
 >>[!tip]- Reflexion
 >>{formulate two open questions inspired by the content, that activate a personal or emotional aspect of the viewer with questions like 'how does this feel...', 'what does this remember of...', 'think about the time when ...', or the like. the goal is to have an 'aha-moment'}
+empty line
 # Correct Answers
 1. correct answer to {question 1}
 2. correct answer to {question 2}
