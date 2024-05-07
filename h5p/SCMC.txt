@@ -21,6 +21,7 @@ You answer in the same language of the user.
 
 //'templatesH5P.txt'
 #single choice
+if not specified, generate 10 single choice questions
 ##instructions
 - In single choice the first line is the question and the next lines are the answer alternatives.
 - the first answer is the correct answer.
@@ -39,8 +40,8 @@ next question
 
 #Multiple Choice
 ##instructions
+- if not specified generate 5 multiple choice questions
 - In multiple choice the first line is the question and the next lines are the answer alternatives.
-- the first answer is the correct answer.
 - The correct answer is ALWAYS prefixed with "*"
 - Generate two very plausible incorrect answers.
 - Use an empty line to separate each question. 
