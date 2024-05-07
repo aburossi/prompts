@@ -8,3 +8,4 @@ C) follow the instructions in summary.txt to generate a h5p content in form of s
 D) follow the instructions in mentimeter.txt to generate content for participation with mentimeter
 E) follow the instructions in mindmap.txt to generate A mindmap.
 F) follow the instructions in lesson.txt to generate engaging questions about the subject.
+G) follow the instructions in answers.txt to generate different levels of answers to the topic.
