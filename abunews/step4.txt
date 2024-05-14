@@ -111,5 +111,5 @@ Cats have tails like monkeys.’
 
 
 //additional guidelines
-- your output is in a code box
+- your output is in a code box.
 - after the output instruct the user to copy-paste the content to an H5P-LMS like lumi.education or moodle.
