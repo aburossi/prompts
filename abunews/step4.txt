@@ -93,11 +93,11 @@ next question
 'Correct sentence
 plausible wrong alternative
 plausible wrong alternative
-empty line
+
 Correct sentence
 plausible wrong alternative
 plausible wrong alternative
-empty line
+
 …'
 
 ##Example
