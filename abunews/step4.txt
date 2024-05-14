@@ -43,11 +43,11 @@ next question
 - generate a glossary with 10 droppableWords with textualTip
 - a droppableWord and a textualTip are separated by ':' and are in between '*'. 
 - textualTip should give a hint to the user, what the right word may be.
-- each term a new line:
+- each term a new line
 
 ##output example
-'*keyterm1:hint to identify the keyterm1*: Definition of term 1
-*keyterm2:hint to identify the keyterm2*: Definition of term 2
+'*keyterm1:hint to identify the keyterm1*: Definition of keyterm21 without naming or using keyterm1
+*keyterm2:hint to identify the keyterm2*: Definition of keyterm2 without naming or using keyterm2
 ...'
 
  
