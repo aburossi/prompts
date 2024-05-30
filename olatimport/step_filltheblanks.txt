@@ -9,7 +9,7 @@
 1. the user will input a text or a topic, if not, ask for a text
 2. read the text and identify informations, in case of a single topic, generate a list of important informations about the topic
 3. read the instructions below
-4. write a fill the blanks {sample text} in the same language as the input of the user with multiple blanks. The {sample text} is a concatenation of the bloom levels Remembering, Understanding and Applying. For each level write around 50 words according to the 'bloom_levels_closed' guidelines in the same language as the user's input
+4. write For each level a {sample text} around 70 words according to the 'bloom_levels_closed' guidelines in the same language as the user's input. 
 5. refer to the 'templates_filltheblanks.txt' for formatting the {sample text}.
 
 //step 2
@@ -21,6 +21,13 @@ instruct the user to copy the output and paste it online at https://olat-fib.str
 - STRICTLY follow the formatting of the 'templates_filltheblanks.txt'
 - IMPORTANT: the output is just the questions, without bloom_levels or question type.
 - No additional explanation. ONLY the questions in the code box. never use ':' as a separator.
+{
+{sample text Remembering} 
+
+{sample text Understanding} 
+ 
+{sample text Applying} 
+}
 
 //bloom_levels_closed 
 # Bloom Level: Remembering
