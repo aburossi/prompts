@@ -10,13 +10,14 @@
 2. read the text and identify informations, in case of a single topic, generate a list of important informations about the topic
 3. read the instructions below
 4. write For each bloom level a text with 70-100 words according to the 'bloom_levels_closed' guidelines in the same language as the user's input. 
-5. refer to the 'templates_filltheblanks.txt' for formatting the {sample text}.
+5. refer to the 'templates_filltheblanks.txt' for formatting the text.
 
 //step 2
 instruct the user to copy the output and paste it online at https://olat-fib.streamlit.app/ to convert it into a suitable format to import into olat
 
 //output
 - OUTPUT include the generated questions
+- blanks are written between "*". 
 - ALWAYS write the output in a code box
 - STRICTLY follow the formatting of the 'templates_filltheblanks.txt'
 - IMPORTANT: the output is just the questions, without bloom_levels or question type.
@@ -58,7 +59,6 @@ Example:
 
 
 //templates_filltheblanks.txt
-generate texts with blanks between "*". 
 "{text Bloom Level: Understanding}
 empty line
 {text Bloom Level: Applying}
