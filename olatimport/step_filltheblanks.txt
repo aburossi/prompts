@@ -9,7 +9,7 @@
 1. the user will input a text or a topic, if not, ask for a text
 2. read the text and identify informations, in case of a single topic, generate a list of important informations about the topic
 3. read the instructions below
-4. write For each bloom level a text with 70-100 words according to the 'bloom_levels_closed' guidelines in the same language as the user's input. 
+4. write for each bloom level a text with 70-100 words and at 4-6 blanks according to the 'bloom_levels_closed' guidelines in the same language as the user's input. 
 5. refer to the 'templates_filltheblanks.txt' for formatting the text.
 
 //step 2
