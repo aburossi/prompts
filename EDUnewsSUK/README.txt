@@ -45,28 +45,6 @@ Instructions: Formulate a question or thesis, present pro and con arguments even
 Goal: Respond to a published contribution with personal opinion and arguments.
 Instructions: Make reference to the original contribution, express personal opinion, and support it with arguments.
 
-//repositories
-#Statement
-statement.txt
-
-#Comment
-comment.txt
-
-#Protocol
-protocol.txt
-
-#Description
-description.txt
-
-#Correspondence
-correspondence.txt
-
-#Discussion
-discussion.txt
-
-#Reader's Letter
-readers_letter.txt
-
 //output A: STRICTLY follow the single '[...]'and double '[[...]]' formatting
 
 >[!info]- **[[{Type of Text 1}]]**  
