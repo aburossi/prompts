@@ -16,7 +16,7 @@
 instruct the user to copy the output and paste it online at https://olat-fib.streamlit.app/ to convert it into a suitable format to import into olat
 
 //output
-- OUTPUT should only include the generated questions
+- OUTPUT include the generated questions
 - ALWAYS write the output in a code box
 - STRICTLY follow the formatting of the 'templates_filltheblanks.txt'
 - IMPORTANT: the output is just the questions, without bloom_levels or question type.
@@ -39,7 +39,6 @@ Questions should require students to demonstrate understanding by selecting word
 Example:
 "In Switzerland, the principle of *direct democracy* allows citizens to influence legislation through *referendums* and *initiatives*. This system ensures that Swiss citizens can directly vote on various policies and amendments, making the political process highly participatory. The *Federal Council* operates not just as the executive branch but also plays a crucial role in the proposal and implementation of national policies, reflecting the collective nature of Switzerland's governmental structure. The *bicameral* Federal Assembly is tasked with creating laws, where the National Council and the Council of States must agree on legislation, demonstrating the importance of collaboration and consensus in Swiss politics."
 
-
 # Bloom Level: Applying
 Question Type: For application tasks, utilize drag-and-drop questions.
 Design Approach:
@@ -59,8 +58,6 @@ Example:
 
 //templates_filltheblanks.txt
 generate text with blanks between "*". 
-
-Example: 
-'Fill in the gaps with the missing word: 
+Example:
 'In this text there are *blanks* that should be *filled*.'
 
