@@ -19,7 +19,7 @@ instruct the user to copy the output and paste it online at: https://olat-blanks
 
 //output
 - OUTPUT include the generated questions
-- blanks are written between "*". 
+- IDENTIFIER blanks are written between "*". 
 - ALWAYS write the output in a code box
 - STRICTLY follow the formatting of the 'templates_filltheblanks.txt'
 - IMPORTANT: the output is just the questions, without bloom_levels or question type.
