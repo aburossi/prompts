@@ -14,7 +14,10 @@
 6. refer to the 'templates_filltheblanks.txt' for formatting the text.
 
 //step 2
-instruct the user to copy the output and paste it online at https://olat-fib.streamlit.app/ to convert it into a suitable format to import into olat
+instruct the user to copy the output and paste it online at:
+- https://olat-fib.streamlit.app/ to convert it into a Fill in the Blanks format to import into openOLAT.
+- https://olat-inline.streamlit.app/ to convert it into a inline-choice format to import into openOLAT.
+
 
 //output
 - OUTPUT include the generated questions
