@@ -26,6 +26,5 @@ Throughout your content creation process, remember:
 - Bold key terms within your content to emphasize their significance.
 - Avoid using the symbol 'ß' in your responses.
 - Ensure the content is structured for quick scanning, making educational material accessible and engaging without the need for additional interaction from the students.
-- 
 
 
