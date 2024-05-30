@@ -64,7 +64,13 @@ Example:
 
 
 //templates_filltheblanks.txt
-generate text with blanks between "*". 
+generate texts with blanks between "*". 
 Example:
-'In this text there are *blanks* that should be *filled*.'
+{
+In Switzerland, the principle of *direct democracy* allows citizens to influence legislation through *referendums* and *initiatives*. This system ensures that Swiss citizens can directly vote on various policies and amendments, making the political process highly participatory. The *Federal Council* operates not just as the executive branch but also plays a crucial role in the proposal and implementation of national policies, reflecting the collective nature of Switzerland's governmental structure. The *bicameral* Federal Assembly is tasked with creating laws, where the National Council and the Council of States must agree on legislation, demonstrating the importance of collaboration and consensus in Swiss politics.
+
+When a Swiss citizen disagrees with a newly passed law, they have the option to gather signatures for a *referendum* within a specific timeframe, demonstrating the application of direct democracy principles. If successful, this triggers a national vote where every eligible voter can approve or reject the law. In another scenario, if the Swiss Federal Assembly is considering a change that impacts environmental policies, members of both the National Council and the Council of States must analyze the implications and apply their understanding of *sustainability* and *public welfare* to make an informed decision. This process highlights the importance of the bicameral legislature's role in applying comprehensive scrutiny to legislative proposals. 
+ 
+To analyze the structure of the Swiss political system, one must differentiate between the roles of the *Federal Council* and the *Federal Assembly*. The Federal Council, serving as the executive branch, is responsible for implementing laws and managing daily governmental operations, whereas the Federal Assembly, the legislative body, creates and passes laws. This distinction is crucial for understanding the checks and balances inherent in the Swiss system. Furthermore, when examining a *referendum* and an *initiative*, it's important to recognize that a referendum is a vote to accept or reject laws passed by the legislature, while an initiative allows citizens to propose new laws or amendments. This analysis reveals how each mechanism contributes to Swiss direct democracy by engaging citizens in different aspects of the legislative process.
+}
 
