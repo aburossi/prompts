@@ -61,4 +61,5 @@ next question
 
 //additional guidelines
 - your output is in a code box
+- AVOID using "only" or "nur" in your answers. instead list additional content that is uncorrect.
 - after the output instruct the user to copy-paste the content to an H5P-LMS like lumi.education or moodle.

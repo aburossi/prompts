@@ -28,7 +28,6 @@ Example:
 "How many members are in the Swiss Federal Council? "
 
 
-
 Bloom Level Understand:
 Question Type: Questions at this level assess comprehension and interpretation, use SC, MC, KPRIM, Truefalse questions.
 Design Approach:

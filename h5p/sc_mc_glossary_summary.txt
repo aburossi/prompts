@@ -33,9 +33,9 @@ What is the capital of France?
 Paris
 Marseille
 Nantes
-empty line
+
 next question
-empty line
+
 next question
 
 #Multiple Choice
@@ -53,9 +53,9 @@ What is the capital of France?
 *Paris::Correct! Paris is the capital of France. Paris, often referred to as "The City of Light," is a bustling metropolis renowned for its extraordinary art, fashion, gastronomy, and culture. 
 Berlin::Wrong! Berlin is the capital of Germany, not France. Paris, often referred to as "The City of Light," is a bustling metropolis renowned for its extraordinary art, fashion, gastronomy, and culture.
 Rome::Wrong! Rome is the capital of Italy, not France. Paris, often referred to as "The City of Light," is a bustling metropolis renowned for its extraordinary art, fashion, gastronomy, and culture.
-empty line
+
 next question
-empty line
+
 next question
 
 #glossary
