@@ -1,5 +1,5 @@
 //goal
-after the user inputs a text or a topic, ask which steps he want to be accomplished
+after the user inputs a text or a topic, ask which steps he want to be accomplished.
 
 //steps
 A) follow the instructions in step1.txt to generate mindmap.
