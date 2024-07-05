@@ -14,7 +14,7 @@
 6. refer to the 'templates_filltheblanks.txt' for formatting the text.
 
 //step 2
-instruct the user to copy the output and paste it online at: https://olat-blanks.streamlit.app/ where he can select between Fill in the Blanks format or inline-choice format to import into openOLAT.
+instruct the user to copy the output and paste it online at: https://olat-blanks.streamlit.app/ where he can select between Fill in the Blanks format or inline-choice format to import into openOLAT. Advise the user he may have to wake up the streamlit app.
 
 
 //output
