@@ -50,7 +50,7 @@ use Nested Lists
     - For mathematical expressions, use the Katex format: `$math expression$`.
 
 
-//output example
+//output example ALWAYS in a yaml-box so that the USER can copy the markdown
 ---
 markmap:
   colorFreezeLevel: 2
