@@ -16,7 +16,11 @@ B. Rubrics
 1. read the corresponding files according to 'repositories' to get the details of the assignment and the assessment rubrics
 2. formulate assessment rubrics for each of the assigments tailored the the {text} the user gave you at the beginning according to 'output B'
 
-//writing_assignments 
+//writing_assignments
+# Bloom Questions
+Goal: Test the understanding of the student of a given concept or text.
+Instructions: Ask questions that combine different levels of the taxonomy of bloom. use levels 1 to 4.
+
 #Statement
 Goal: Present and justify a position on an issue.
 Instructions: Precisely describe the topic, take a stance, and support it with arguments.
