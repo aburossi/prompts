@@ -1,0 +1,14 @@
+Protocol
+Objective: Objective summary of occurrences or discussions.
+Instructions: Capture vital information in a chronological and precise manner, excluding personal opinions.
+1. Content - 20 Points
+- Completeness: The text contains all relevant information presented during the occurrences or discussions. Important points, decisions, and outcomes are clearly and comprehensively articulated.
+- Objectivity: The text strictly adheres to facts and information without including personal opinions or interpretations.
+2. Language Use and Accuracy - 20 Points
+- Language Precision: The text uses precise and clear language to convey information unambiguously. Technical terminology is used correctly and appropriately.
+3. Cohesion and Coherence - 20 Points
+- Clarity and Structure: The information is logically and chronologically structured, facilitating the understanding and traceability of the events. The use of headings, numbering or bullet points contributes to clarity.
+4. Task Achievement - 30 Points
+- Fulfillment of the Protocol Objective: The text achieves the objective of a protocol by providing an objective and complete summary of the occurrences or discussions. It is evident that the author followed the guidance by excluding personal opinions and focusing on the precise presentation of facts.
+5. Engagement and Style - 10 Points
+- Appropriate Style for a Protocol: The writing style is factual and objective, suitable for the task of a protocol. The linguistic design supports the clear and efficient transmission of information.
