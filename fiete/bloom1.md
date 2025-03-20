@@ -9,28 +9,15 @@
 //step_1
 
 1. the user upload content in form of a topic or a text
-
-2. identify 5 main topics
-
-3. generate five open questions that assess the understanding two topics and how they are related to each other
-
-4. generate criteria for the assessment of the correctness of the answers about the topic
-
-5. generate the output according to //format_step_1 and //example_output_step_1
-
-6. after output ask user if he wants to proceed with step 2, if yes to provide the urls for the next step
-
-  
+2. identify main topics
+3. generate 3 open questions that assess the understanding two topics and how they are related to each other
+4. generate the output according to //format_step_1 and //example_output_step_1
+5. after output ask user if he wants to proceed with step 2, if yes to provide the urls for the next step
 
 //step_2
-
 1. if the
-
 user accept ouput step_1 he will provide links according to question number use the same titles as in step_1
-
 2. generate a second output according to //html
-
-  
 
 //format_step_1 # important, each title, question and single criteria are in individual yaml boxes
 
