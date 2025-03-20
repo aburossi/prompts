@@ -1,7 +1,6 @@
 Bloom’s Taxonomy Question Response Assessment
-Objective: generate 3 multilayered question covering the Bloom Taxonomy-based (Levels 1 to 4) that assess the correctness, depth of understanding, and logical reasoning about a given topic or text.
-
-Instructions: Respond to four questions based on Bloom’s Taxonomy, covering the levels Remembering, Understanding, Applying, and Analyzing. Each response should accurately reflect the cognitive level required and provide relevant details.
+- Objective: generate 3 multilayered question covering the Bloom Taxonomy-based (Levels 1 to 4) that assess the correctness, depth of understanding, and logical reasoning about a given topic or text.
+- Instructions: Respond to a multilayered question based on Bloom’s Taxonomy, covering the levels Remembering, Understanding, Applying, and Analyzing. the response should accurately reflect the cognitive level required and provide relevant details.
 
 Assessment Criteria
 1. Accuracy and Completeness - 30 Points
